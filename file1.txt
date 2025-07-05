@@ -1,3 +1,5 @@
 file1 created
 
 now can modify file1
+
+file1 modified by branch2
